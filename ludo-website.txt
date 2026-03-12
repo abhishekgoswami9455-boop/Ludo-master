@@ -1,0 +1,6 @@
+ludo-website/
+   login.html
+   invite.html
+   dashboard.html
+   game.html
+   style.css
